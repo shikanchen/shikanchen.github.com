@@ -11,8 +11,8 @@ var resume = [
 
 	"<b>== My Projects ==</b><br>"+
 	"<b>Stable Projects</b><br>"+
-	"<a href=\"http://jerrybucc.github.io/Terminal\">TerminalOL</a>: "+"Website version terminal emulator compatible to Linux commands."+"<br>"+
-	"<a href=\"https://github.com/Jerrybucc/Forum\">Forum</a>: "+"A forum using PHP for server, MySQL for database and bootstrap for designing."+"<br>"+
+	"<a href=\"http://jerrybucc.github.io/Termino_TerminalOL\">TerminalOL</a>: "+"Website version terminal emulator compatible to Linux commands."+"<br>"+
+	"<a href=\"https://github.com/Jerrybucc/Termino_Forum\">Forum</a>: "+"A forum using PHP for server, MySQL for database and bootstrap for designing."+"<br>"+
 	"<a href=\"https://github.com/Jerrybucc/Messager\">Messager</a>: "+"A site for people to post their emotions everyday."+"<br>"+
 	"<a href=\"https://jerrybucc.github.io/planAssistTool\">planAssistTool</a>: "+"A HTML-based tool for chinese students to generate a plan of memorizing vocabulary by The Ebbinghaus Forgetting Curve."+"<br>"+
 	"<b>Ongoing Projects</b><br>"+
