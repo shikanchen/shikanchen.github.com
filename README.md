@@ -1,2 +1,2 @@
 # jerrybucc.github.com
-Termino
+My Blog
