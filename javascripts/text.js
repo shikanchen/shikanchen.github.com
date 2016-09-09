@@ -1,15 +1,15 @@
 var resume = [
-	"<b>== Personal Information ==</b><br>"+
+	"<b class='alter'>== Personal Information ==</b><br>"+
 	"Name: Shikan Chen<br>"+
 	"Preferred Name: Jerry<br>"+
 	"Date of Birth: Nov 12th, 1997<br>"+
 	"<br>^100"+
 
-	"<b>== Education ==</b><br>"+
+	"<b  class='alter'>== Education ==</b><br>"+
 	"High School: "+"Ningbo Foreign Language School<br>"+
 	"<br>^100"+
 
-	"<b>== My Projects ==</b><br>"+
+	"<b  class='alter'>== My Projects ==</b><br>"+
 	
 		"<b>Stable Projects</b><br>"+
 		"<a href=\"http://jerrybucc.github.io/Termino_TerminalOL\">TerminalOL</a>: "+"Website version terminal emulator compatible to Linux commands"+"<br>"+
