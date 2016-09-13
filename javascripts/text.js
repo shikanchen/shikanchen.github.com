@@ -21,7 +21,7 @@ var resume = [
 		"<a href=\"https://github.com/Jerrybucc/Utopia\">Utopia</a>: "+"a sublime note-taking app"+"<br>"+
 		"<a href=\"https://github.com/Jerrybucc/UtopiaOL\">UtopiaOL</a>: "+"Online version for <a href=\"https://github.com/Jerrybucc/Utopia\">Utopia</a>"+"<br>"+
 
-		"<b>Belta Projects</b><br>"+
+		"<b>Beta Projects</b><br>"+
 		"<a href=\"https://github.com/Jerrybucc/Snake\">Snake</a>: "+"Snake game with AI written by Java."+"<br>"+
 		"<a href=\"https://github.com/Jerrybucc/Chatter\">Chatter</a>: "+"A chat robot using Huangji, Simsimi and Tuling API, supporting Chinese and English"+"<br>"+
 
