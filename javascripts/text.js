@@ -29,7 +29,7 @@ var resume = [
 		"<a href=\"https://github.com/"+info.account+"/Chatter\">Chatter</a>: "+"A chat robot using Huangji, Simsimi and Tuling API, supporting Chinese and English"+"<br>"+
 
 		"<b>Old/Disposed Projects</b><br>"+
-		"<a href=\"http://"+info.account+".github.io/rootAndAffix/\">RootAndAffix</a>: "+"A Web App for students to learn the roots and affixes written by Jquery Mobile"+"<br>"
+		"<a href=\"http://"+info.account+".github.io/rootAndAffix/\">Root&&Affix</a>: "+"A Web App for students to learn the roots and affixes written by Jquery Mobile"+"<br>"
 
 		
 	];
