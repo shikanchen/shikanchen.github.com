@@ -4,7 +4,7 @@ var info = {
 var resume = [
 	"<b class='alter'>== Personal Information ==</b><br>"+
 	"Name: Shikan Chen<br>"+
-	"Preferred Name: Jerry<br>"+
+// 	"Preferred Name: Jerry<br>"+
 	"Date of Birth: Nov 12th, 1997<br>"+
 	"<br>^100"+
 
