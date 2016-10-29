@@ -6,6 +6,7 @@ var resume = [
 	"Name: Shikan Chen<br>"+
 // 	"Preferred Name: Jerry<br>"+
 	"Date of Birth: Nov 12th, 1997<br>"+
+	"<a href=\"http://139.196.114.227\">Personal Storage</a><br>"+
 	"<br>^100"+
 
 	"<b  class='alter'>== Education ==</b><br>"+
