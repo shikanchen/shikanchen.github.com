@@ -22,6 +22,7 @@ var resume = [
 		"<a href=\"https://"+info.account+".github.io/Planner\">Planner</a>: "+"A HTML-based tool for chinese students to generate a plan of memorizing vocabulary by The Ebbinghaus Forgetting Curve"+"<br>"+
 		
 		"<b>Alpha Projects</b><br>"+
+		"<a href=\"https://github.com/"+info.account+"/termino_THEME\">termino_THEME</a>: "+"an interesting HTML, CSS, and JS framework for developing Website Projects."+"<br>"+
 		"<a href=\"https://github.com/"+info.account+"/Utopia\">Utopia</a>: "+"a sublime note-taking app"+"<br>"+
 		"<a href=\"https://github.com/"+info.account+"/UtopiaOL\">UtopiaOL</a>: "+"Online version for <a href=\"https://github.com/"+info.account+"/Utopia\">Utopia</a>"+"<br>"+
 
