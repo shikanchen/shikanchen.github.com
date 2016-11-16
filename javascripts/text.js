@@ -21,7 +21,7 @@ var resume = [
 		"<a href=\"./Planner\">Planner</a>: "+"A HTML-based tool for chinese students to generate a plan of memorizing vocabulary by The Ebbinghaus Forgetting Curve"+"<br>"+
 		
 		"<b>Alpha Projects</b><br>"+
-		"<a href=\"./termino_THEME\">termino_THEME</a>: "+"an interesting HTML, CSS, and JS framework for developing Website Projects."+"<br>"+
+		"<a href=\"https://github.com/"+info.account+"/termino_THEME\">termino_THEME</a>: "+"an interesting HTML, CSS, and JS framework for developing Website Projects."+"<br>"+
 		"<a href=\"./Snake\">Snake</a>: "+"Snake game with AI written by Java."+"<br>"+
 
 		"<b>Beta Projects</b><br>"+
