@@ -1,10 +1,10 @@
 var info = {
-	account: "kanaikan"
+	account: "shaquillechen"
 };
 var resume = [
 	"<b class='alter'>== Personal Information ==</b><br>"+
 	"Name: Shikan Chen<br>"+
-// 	"Preferred Name: Jerry<br>"+
+	"Preferred Name: Shaquille<br>"+
 	"Date of Birth: Nov 12th, 1997<br>"+
 	"<br>^100"+
 
@@ -22,9 +22,10 @@ var resume = [
 		
 		"<b>Alpha Projects</b><br>"+
 		"<a href=\"https://github.com/"+info.account+"/termino_THEME\">termino_THEME</a>: "+"an interesting HTML, CSS, and JS framework for developing Website Projects."+"<br>"+
-		"<a href=\"./Snake\">Snake</a>: "+"Snake game with AI written by Java."+"<br>"+
+		"<a href=\"https://github.com/"+info.account+"/Container.js\">Container.js</a>: "+"JavaScript implementation of Java Containers."+"<br>"+
 
 		"<b>Beta Projects</b><br>"+
+		"<a href=\"./Auto-Snake\">Snake</a>: "+"Snake game with AI written by Java."+"<br>"+
 		"<a href=\"./Chatter\">Chatter</a>: "+"A chat robot using Huangji, Simsimi and Tuling API, supporting Chinese and English"+"<br>"+
 
 		"<b>Old/Disposed Projects</b><br>"+
