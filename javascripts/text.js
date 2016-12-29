@@ -18,7 +18,7 @@ var resume = [
 		"<a href=\"./Termino_TerminalOL\">TerminalOL</a>: "+"Website version terminal emulator compatible to Linux commands"+"<br>"+
 		"<a href=\"https://github.com/"+info.account+"/Termino_Forum\">Forum</a>: "+"A forum using PHP for server, MySQL for database and bootstrap for designing"+"<br>"+
 		"<a href=\"https://github.com/"+info.account+"/No.100\">No.100</a>: "+"A site for people to post their emotions everyday"+"<br>"+
-		"<a href=\"./Planner\">Planner</a>: "+"A HTML-based tool for chinese students to generate a plan of memorizing vocabulary by The Ebbinghaus Forgetting Curve"+"<br>"+
+		"<a href=\"./EPlanner\">EPlanner</a>: "+"A HTML-based tool for chinese students to generate a plan of memorizing vocabulary by The Ebbinghaus Forgetting Curve"+"<br>"+
 		
 		"<b>Alpha Projects</b><br>"+
 		"<a href=\"https://github.com/"+info.account+"/termino_THEME\">termino_THEME</a>: "+"an interesting HTML, CSS, and JS framework for developing Website Projects."+"<br>"+
