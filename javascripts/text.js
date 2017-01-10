@@ -1,10 +1,10 @@
 var info = {
-	account: "shaquillechen"
+	account: "shikanchen"
 };
 var resume = [
 	"<b class='alter'>== Personal Information ==</b><br>"+
 	"Name: Shikan Chen<br>"+
-	"Preferred Name: Shaquille<br>"+
+	"Preferred Name: Gerald<br>"+
 	"Date of Birth: Nov 12th, 1997<br>"+
 	"<br>^100"+
 
