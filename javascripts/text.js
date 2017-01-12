@@ -31,8 +31,7 @@ var resume = [
 		"<a href=\"./Root-Affix/\">RA School</a>: "+"A Web App for students to learn the roots and affixes written by Jquery Mobile"+"<br>"+
 		"<a href=\"https://github.com/"+info.account+"/Chatter\">Chatter</a>: "+"A chat robot using Huangji, Simsimi and Tuling API, supporting Chinese and English"+"<br>"+
 
-	"<b class='alter'== Links ==</b><br>"+
-		"<a href=\"http://139.196.114.227\">Personal Storage</a><br>"
+	// "<b class='alter'== Links ==</b><br>"
 
 		
 	];
