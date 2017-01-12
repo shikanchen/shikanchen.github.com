@@ -29,7 +29,7 @@ var resume = [
 
 		"<b>Old/Disposed Projects</b><br>"+
 		"<a href=\"./Root-Affix/\">RA School</a>: "+"A Web App for students to learn the roots and affixes written by Jquery Mobile"+"<br>"+
-		"<a href=\"https://github.com/"+info.account+"/Chatter\">Chatter</a>: "+"A chat robot using Huangji, Simsimi and Tuling API, supporting Chinese and English"+"<br>"+
+		"<a href=\"https://github.com/"+info.account+"/Chatter\">Chatter</a>: "+"A chat robot using Huangji, Simsimi and Tuling API, supporting Chinese and English"+"<br>"
 
 	// "<b class='alter'== Links ==</b><br>"
 
