@@ -13,6 +13,10 @@ var resume = [
 	"University: "+"Rensselaer Polytechnic Institute<br>"+
 	"<br>^100"+
 
+	"<b class='alter'>== Working Experience ==</b><br>"+
+	"Huiyou Technology Software Development Lab, China (2017 Summer)<br>"+
+	"<br>^100"+
+
 	"<b class='alter'>== My Projects ==</b><br>"+
 	
 		"<b>Completed</b><br>"+
