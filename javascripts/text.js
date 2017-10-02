@@ -25,12 +25,10 @@ var resume = [
 		"<a href=\"./No.100\">No.100</a>: "+"A site for people to post their emotions everyday"+"<br>"+
 		
 		"<b>Ongoing</b><br>"+
-		"<a href=\"https://github.com/"+info.account+"/Auto-Snake\">Auto-Snake</a>: "+"Snake game with AI written by Java."+"<br>"+
 		"<a href=\"https://github.com/"+info.account+"/Container.js\">Container.js</a>: "+"JavaScript implementation of Java Containers."+"<br>"+
 
 		"<b>Scratches</b><br>"+
-		"<a href=\"https://github.com/"+info.account+"/DatabaseManager\">DatabaseManager</a>: "+"yet another PHP extension implementing Encapsulation of MySQL."+"<br>"+
-		"<a href=\"https://github.com/"+info.account+"/termino_THEME\">termino_THEME</a>: "+"an interesting HTML, CSS, and JS framework for developing Website Projects."+"<br>"+
+		"<a href=\"https://github.com/"+info.account+"/Auto-Snake\">Auto-Snake</a>: "+"Snake game with AI written by Java."+"<br>"+
 
 		"<b>Old/Disposed</b><br>"+
 		"<a href=\"https://github.com/"+info.account+"/Termino_Forum\">Forum</a>: "+"A forum using PHP for server, MySQL for database and bootstrap for designing"+"<br>"+
