@@ -1,6 +1,11 @@
-var info = {
+var INFO = {
 	account: 'shikanchen',
-	name: 'Shikan Chen',
+	legal_name: 'Shikan Chen',
+	preferred_name: 'Jeremy',
 	dob: 'Nov 12th, 1997',
 	rep_base: 'https://github.com/'
 };
+
+var NODES = {
+	resume: '.resume'
+}
