@@ -3,9 +3,18 @@ var INFO = {
 	legal_name: 'Shikan Chen',
 	preferred_name: 'Jeremy',
 	dob: 'Nov 12th, 1997',
-	rep_base: 'https://github.com/'
+    motto: '"Write the Code. Change the World."',
+	rep_base: function () {
+		return `https://github.com/${this.account}/`;
+    }
 };
 
 var NODES = {
-	resume: '.resume'
-}
+	title: '.title',
+	side_info: '.side-info',
+	bookmark: '.bookmark-list'
+};
+
+var BOOKMARK = {
+
+};
