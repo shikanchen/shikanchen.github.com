@@ -1,17 +1,169 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8"/>
-	<link id="style" rel="stylesheet" type="text/css" href="./stylesheets/main.css">
-	<script type="text/javascript" src="./javascripts/text.js"></script>
-	<script type="text/javascript" src="./javascripts/jquery.js"></script>
-	<script type="text/javascript" src="./typed.js/typed.js"></script>
-	<script type="text/javascript" src="./javascripts/main.js"></script>
-	<title>Termino</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link rel="stylesheet" href="stylesheets/style.css">
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src="javascripts/const.js"></script>
+	<script type="text/javascript" src="javascripts/ContentManager.js"></script>
+	<script type="text/javascript" src="javascripts/resume.js"></script>
+	<script type="text/javascript" src="javascripts/login.js"></script>
+	<script type="text/javascript" src="javascripts/main.js"></script>
+
+	<title>Shikan Chen's Resume</title>
 </head>
 <body>
 <div class="container">
-	<div class="resume"></div>
+	<div class="sidebar">
+		<div class="title">
+			<img src="head.jpg">
+			<h1>Shikan Chen</h1>
+			<h2>"Write the Code. Change the World."</h2>
+		</div>
+		<ul class="side-info">
+			<li class="someRight">
+				<dt><i class="icon-bookmark"></i>Contact</dt>
+				<dd><b>E-mail</b>: <a href="mailto:chens24@rpi.edu" target="_blank">chens24@rpi.edu</a></dd>
+				<dd><b>Phone</b>: +1 5189495499</dd>
+				<dd><b>Address</b>: Burdett Ave, Troy, NY</dd>
+			</li>
+			<li class="skill">
+				<dt><i class="icon-bookmark"></i>Programming Language Skills</dt>
+				<dd>
+					<div class="skill-name"><b>Java</b></div>
+					<div class="skill-bar-wrap">
+						<div class="skill-bar" style="width: 90%"></div>
+					</div>
+				</dd>
+				<dd>
+					<div class="skill-name"><b>PHP</b></div>
+					<div class="skill-bar-wrap">
+						<div class="skill-bar" style="width: 75%"></div>
+					</div>
+				</dd>
+				<dd>
+					<div class="skill-name"><b>JavaScript</b></div>
+					<div class="skill-bar-wrap">
+						<div class="skill-bar" style="width: 70%"></div>
+					</div>
+				</dd>
+				<dd>
+					<div class="skill-name"><b>Python</b></div>
+					<div class="skill-bar-wrap">
+						<div class="skill-bar" style="width: 65%"></div>
+					</div>
+				</dd>
+			<li class="skill">
+				<dt><i class="icon-bookmark"></i>Other Skills</dt>
+				<dd>
+					<div class="skill-name"><b>Linux/Unix</b></div>
+					<div class="skill-bar-wrap">
+						<div class="skill-bar" style="width: 60%"></div>
+					</div>
+				</dd>
+				<dd>
+					<div class="skill-name"><b>Web Development</b></div>
+					<div class="skill-bar-wrap">
+						<div class="skill-bar" style="width: 80%"></div>
+					</div>
+				</dd>
+			</li>
+			<li class="skill">
+				<dt><i class="icon-bookmark"></i>Language</dt>
+				<dd>
+					<div class="skill-name"><b>Mandarin</b></div>
+					<div class="skill-bar-wrap">
+						<div class="skill-bar" style="width: 95%"></div>
+					</div>
+				</dd>
+				<dd>
+					<div class="skill-name"><b>English</b></div>
+					<div class="skill-bar-wrap">
+						<div class="skill-bar" style="width: 90%"></div>
+					</div>
+				</dd>
+			</li>
+			</li>
+		</ul>
+	</div>
+	<div class="main">
+		<ul class="main-info">
+			<li class="someRight">
+				<dt><i class="icon-bookmark"></i>Education</dt>
+				<dd><span>Ningbo Foreign Language School AP Center:</span>  2013-2017</dd>
+				<dd><span>Rensselaer Polytechnic Institute:</span> 2017-?</dd>
+
+				<dt><i class="icon-bookmark"></i>Working Experience</dt>
+				<dd><span>Huiyou Technology Software Development Lab</span>, China, 2017 Summer</dd>
+
+				<dt><i class="icon-bookmark"></i>Side Links</dt>
+				<dd><span>Github Profile:</span>  <a href="https://github.com/shikanchen">shikanchen</a></dd>
+				<dd><span>My Blog:</span>  <a href="http://shikanchen.github.com"><abbr title="This is an auto-printing page, please wait if your browser doesn't respond immediately!">shikanchen.github.com</abbr></a></dd>
+
+				<dt><i class="icon-bookmark"></i>Projects</dt>
+				<h3>Completed</h3>
+				<ul class="exp">
+					<li>
+						<div class="circle"></div>
+						<h4>
+							Terminal:
+						</h4>
+						<p>A website version terminal emulator compatible to Linux commands</p>
+					</li>
+					<li>
+						<div class="circle"></div>
+						<h4>
+							No.100:
+						</h4>
+						<p>A web app for people to post their emotions everyday</p>
+					</li>
+					<li>
+						<div class="circle"></div>
+						<h4>
+							Planner:
+						</h4>
+						<p>A website for generating effective plans memorizing English vocabulary using The Ebbinghaus Forgetting Curve</p>
+					</li>
+				</ul>
+				<h3>Ongoing</h3>
+				<ul class="exp">
+					<li>
+						<div class="circle"></div>
+						<h4>
+							Auto-Snake:
+						</h4>
+						<p>A auto-solving snake game using AI</p>
+					</li>
+					<li>
+						<div class="circle"></div>
+						<h4>
+							Chatter:
+						</h4>
+						<p>A chat robot supporting Chinese and English</p>
+					</li>
+				</ul>
+				<h3>Scratches</h3>
+				<ul class="exp">
+					<li>
+						<div class="circle"></div>
+						<h4>
+							Root&amp;&amp;Affix:
+						</h4>
+						<p>A web App for people looking up and learning roots and affixes.</p>
+					</li>
+					<li>
+						<div class="circle"></div>
+						<h4>
+							Container.js
+						</h4>
+						<p>JavaScript implementation of Java Containers</p>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
 </div>
 </body>
 </html>
