@@ -15,7 +15,7 @@
 
 body {
     background: #e0e0e0;
-    font-family: 'Helvetica Neue', Helvetica, 'Lucida Grande', Arial, 'Hiragino Sans GB', 微软雅黑, 'WenQuanYi Micro Hei', STHeiti, SimSun, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica, 'Lucida Grande', Arial, 'Hiragino Sans GB', 'WenQuanYi Micro Hei', STHeiti, SimSun, sans-serif;
     min-width: 1080px;
 }
 
@@ -224,19 +224,6 @@ h5 {
     line-height: 25px;
 }
 
-.fa {
-    margin-right: 2px;
-}
-
-h4 a,
-h5 a {
-    font-size: 12px;
-    border: 1px solid #4db6ac;
-    padding: 1px 3px;
-    border-radius: 5px;
-    margin-left: 7px;
-}
-
 .circle {
     height: 14px;
     width: 14px;
@@ -264,10 +251,6 @@ h5 a {
     position: relative;
     top: -5px;
     margin: 0 0 20px 20px;
-}
-
-.exp img {
-    width: 200px;
 }
 
 .exp ul > li {
