@@ -23,5 +23,4 @@ $(function () {
     resume.addProject('Terminal','A web-based Terminal emulator for Linux.');
     resume.addProject('EPlanner','A web-based tool for chinese students to generate a plan of memorizing vocabulary.');
     resume.addProject('Auto-Snake','A snake Game with Auto Path AI.');
-
 });
