@@ -25,6 +25,12 @@ class ContentManger {
         return newObj;
     }
 
+    setTitle (title) {
+        var target = this.getTarget();
+        this.setTarget('head');
+        this.p(this.createNewObj('title', {text:title})).setTarget(target);
+    }
+
     addSkill (name, skills) {
         var skill = this.createNewObj('li', {class:'skill'});
         skill.append(`<dt><i class="icon-bookmark"></i>${name}</dt>`);
@@ -43,6 +49,20 @@ class ContentManger {
         BOOKMARK[name] = `.bookmark-${name.toUpperCase()}:last`;
         this.p(bookmark);
         this.p(this.createNewObj('div', {class:`bookmark-${name.toUpperCase()}`}));
+    }
+
+    addContactDetails (details) {
+        for (var d in details) {
+            var wrap = this.createNewObj('dd');
+            wrap.append(`<b>${d}</b>: ${details[d]}`);
+            this.p(wrap);
+        }
+    }
+
+    addOneRecord (record, loc, time, link) {
+        var wrap = this.createNewObj('dd');
+        wrap.append(`<span><a href="${link}">${record}</a></span>, ${loc}, ${time}`);
+        this.p(wrap);
     }
 
     addProject (name, descr) {

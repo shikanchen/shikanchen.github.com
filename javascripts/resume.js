@@ -1,6 +1,7 @@
 $(function () {
     // title part
     var resume = new ContentManger(NODES.title);
+    resume.setTitle('Shikan Chen\'s Resume');
     resume.p(resume.createNewObj('img', {src:'head.jpg'}));
     resume.p(resume.createNewObj('h1', {text:INFO.legal_name}));
     resume.p(resume.createNewObj('h2', {text:INFO.motto}));
@@ -11,8 +12,22 @@ $(function () {
     resume.addSkill('Other Skills', {'Linux/Unix':60,'Web Development':80});
     resume.addSkill('Language', {'Mandarin':95,'English':90});
 
-    // project
-    resume.setTarget(NODES.bookmark);
+    // contact part
+    resume.setTarget(NODES.contact);
+    resume.addBookmark('Contact');
+    resume.addContactDetails({'Email':'chens24@rpi.edu','Phone':'+1 (518)9495499','Address':'Burdett Ave 1999, Troy, NY'});
+
+    // experience part
+    resume.setTarget(NODES.experience);
+    resume.addBookmark('Education');
+    resume.addOneRecord('Ningbo Foreign Language School AP Center','China','2013-2017', 'http://www.ningwai.net');
+    resume.addOneRecord('Rensselaer Polytechnic Institute','Troy NY','2017-?', 'https://rpi.edu');
+    resume.addBookmark('Working Experience');
+    resume.addOneRecord('Huiyou Technology Software Development Lab', 'China', '2017 Summer', 'http://www.365hy.com');
+    resume.addOneRecord('global blockchain index research group of scry.INFO', 'Troy NY', '2017 Winter', 'https://www.scry.info');
+
+    // project part
+    resume.setTarget(NODES.project);
     resume.addBookmark('Projects');
     resume.setTarget(BOOKMARK['Projects']);
     resume.p(resume.createNewObj('ul',{class:'exp'})).setTarget('.exp');

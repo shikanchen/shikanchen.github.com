@@ -12,7 +12,9 @@ var INFO = {
 var NODES = {
 	title: '.title',
 	side_info: '.side-info',
-	bookmark: '.bookmark-list'
+    contact: '.contact',
+	experience: '.experience',
+    project: '.project'
 };
 
 var BOOKMARK = {
