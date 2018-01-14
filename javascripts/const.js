@@ -20,3 +20,8 @@ var NODES = {
 var BOOKMARK = {
 
 };
+
+// hidden function
+var myGithub = function () {
+    window.location.href = INFO.rep_base();
+}

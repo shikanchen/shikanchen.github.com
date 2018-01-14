@@ -15,7 +15,7 @@ $(function () {
     // contact part
     resume.setTarget(NODES.contact);
     resume.addBookmark('Contact');
-    resume.addContactDetails({'Email':'chens24@rpi.edu','Phone':'+1 (518)9495499','Address':'Burdett Ave 1999, Troy, NY'});
+    resume.addContactDetails({'Email':'chens24@rpi.edu','Phone':'+1 (518)9495499','Address':'Burdett Ave 1999, Troy, NY','Github':'shikanchen'});
 
     // experience part
     resume.setTarget(NODES.experience);
