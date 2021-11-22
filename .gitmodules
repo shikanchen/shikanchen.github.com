@@ -1,0 +1,3 @@
+[submodule "Terminal"]
+	path = Terminal
+	url = https://github.com/shikanchen/Terminal
