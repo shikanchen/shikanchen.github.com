@@ -1,6 +1,6 @@
 [submodule "Terminal"]
 	path = Terminal
-	url = https://github.com/shikanchen/Terminal
+	url = https://github.com/shikanchen/Terminal.git
 [submodule "2048AI"]
 	path = 2048AI
-	url = git@github.com:shikanchen/2048AI.git
+	url = https://github.com/shikanchen/2048AI.git
