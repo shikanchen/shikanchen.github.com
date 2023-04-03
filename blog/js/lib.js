@@ -126,7 +126,7 @@ jQuery(document).ready(function(){
 				user_site: user_site,
 				user_msg: user_msg
 			};
-			jQuery.post("include/sendmail.php", data, userSubmitFormResponse, "text");
+			jQuery.post("https://formspree.io/f/mvodjwpe", data, userSubmitFormResponse, "text");
 		}
 	}
 	
