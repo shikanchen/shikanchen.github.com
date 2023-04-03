@@ -1,2 +1,2 @@
 # shikanchen.github.com
-Current used as the web version of my resume
+Current used as my personal blog and the web version of my resume
